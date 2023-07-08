@@ -2,7 +2,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="./html_css.png" alt="logo" width="140"  height="auto" />
+  <img src="./src/images/world_map.jpg" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>World-contries</b></h3>
