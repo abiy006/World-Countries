@@ -17,6 +17,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [🎥 Video Presentation](#video-presentation)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -61,6 +62,12 @@
 ### Key Features <a name="key-features"></a>
 
 - **World-contries is configured**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- VIDEO PRESENTATION -->
+## 🎥 Video Presentation <a name="video-presentation"></a>
+[Watch the video presentation of World countries info here.](https://www.loom.com/share/8918f6e5012b423190539f10d2ade8af)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
